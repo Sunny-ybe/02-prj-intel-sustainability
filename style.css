@@ -103,3 +103,34 @@ section img {
   border-radius: 6px;
   margin: 0.75rem 0;
 }
+.learn-more {
+  background-color: #f4f6f8;
+  text-align: center;
+  padding: 2.5rem 1rem;
+  border-top: 1px solid #ddd;
+}
+
+.learn-more h2 {
+  color: #0068b5;
+  margin-bottom: 0.75rem;
+}
+
+.learn-more p {
+  max-width: 600px;
+  margin: 0 auto 1.25rem;
+  line-height: 1.4;
+  color: #333;
+}
+
+.learn-more a {
+  display: inline-block;
+  background-color: #0068b5;
+  color: white;
+  padding: 0.6rem 1.4rem;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.learn-more a:hover {
+  background-color: #004f8a;
+}
